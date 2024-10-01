@@ -31,7 +31,7 @@ export const DEFAULT_NODES = [
                         "title": "Herbívoros",
                         "children": [
                             {
-                                "title": "Eqídeos",
+                                "title": "Equídeos",
                                 "children": [
                                     {
                                         "title": "Cavalos"
